@@ -16,6 +16,18 @@
         <jetty.stop.port>9999</jetty.stop.port>
     </properties>
 
+<!-- DEB ADD LPO 20140627 -->
+    <reporting>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-javadoc-plugin</artifactId>
+                <version>2.7</version>
+            </plugin>
+        </plugins>
+    </reporting>
+<!-- FIN ADD LPO 20140627 -->
+
     <build>
         <finalName>gameoflife</finalName>
         <resources>
