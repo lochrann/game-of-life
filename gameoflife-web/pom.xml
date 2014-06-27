@@ -17,6 +17,7 @@
     </properties>
 
 <!-- DEB ADD LPO 20140627 -->
+<!--
     <reporting>
         <plugins>
             <plugin>
@@ -26,6 +27,7 @@
             </plugin>
         </plugins>
     </reporting>
+-->
 <!-- FIN ADD LPO 20140627 -->
 
     <build>
