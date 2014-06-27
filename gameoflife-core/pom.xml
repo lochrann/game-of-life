@@ -47,7 +47,11 @@
                 <configuration>
                     <formats>
                         <format>xml</format>
+<!-- DEB MOD LPO 20140627 -->
+<!--
                         <format>html</format>
+-->
+<!-- FIN MOD LPO 20140627 -->
                     </formats>
                 </configuration>
             </plugin>
